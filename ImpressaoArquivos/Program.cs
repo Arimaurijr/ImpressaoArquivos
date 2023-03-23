@@ -8,6 +8,8 @@ internal class Program
 
         WriteFile(fixedtext);
 
+
+
         var texto = ReadFile("peste.txt");
 
         Console.WriteLine(texto);
